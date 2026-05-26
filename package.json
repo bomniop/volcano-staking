@@ -1,0 +1,12 @@
+{
+  "name": "volcano-staking",
+  "version": "1.0.0",
+  "description": "High-yield staking with volcanic eruption mechanics",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "bomniop",
+  "license": "MIT"
+}
